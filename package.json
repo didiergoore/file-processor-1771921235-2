@@ -1,0 +1,13 @@
+{
+  "name": "file-processor-1771921235-2",
+  "version": "1.0.0",
+  "description": "Professional library for modern development",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src"
+  },
+  "author": "a5cf5f4603",
+  "license": "MIT"
+}
